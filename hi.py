@@ -9,4 +9,5 @@ Git has a mutable index called stage
 creating a new branch and mod feature01
 switch to a new branch dev
 fix bug and test for stash
+fix bug 02
 '''
