@@ -6,4 +6,5 @@ Git is a distributed version control system.
 whu no diff
 i got konw
 Git has a mutable index called stage
+creating a new branch and mod
 '''
